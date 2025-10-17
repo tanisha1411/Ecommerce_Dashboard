@@ -37,5 +37,7 @@ It provides key insights into sales performance, trends, and user-driven analyti
 ![Project Dashboard](demo.png)
 
 ---
-
-## 📁 Repository Structure
+## 🏁 How to View
+1. Download the `.pbix` file from this repository.  
+2. Open it in **Power BI Desktop**.  
+3. Interact with visuals, filters, and slicers to explore the insights.
