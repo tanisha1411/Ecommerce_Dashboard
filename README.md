@@ -1,4 +1,4 @@
-# 🧠 Power BI Project – Online Sales Data Dashboard
+# Power BI Project – Online Sales Data Dashboard
 
 ## 📊 Overview
 This Power BI project focuses on building an **interactive dashboard** to track and analyze online sales data.  
